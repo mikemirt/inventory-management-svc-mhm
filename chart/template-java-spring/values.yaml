@@ -3,8 +3,8 @@
 # Declare variables to be passed into your templates.
 global: {}
 
-cloudantBinding: "kube-00bea234116a48c3876f5b5e0d1fc19d.bnr8u8uw0o6lqgk4e9ag.dev-mhm"
-databaseName: "binding-mooc-surge-ocp01-cloudant"
+cloudantBinding: "binding-mooc-surge-ocp01-cloudant"
+databaseName: "kube-00bea234116a48c3876f5b5e0d1fc19d.bnr8u8uw0o6lqgk4e9ag.dev-mhm"
 
 replicaCount: 1
 
