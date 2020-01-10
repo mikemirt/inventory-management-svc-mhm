@@ -4,7 +4,7 @@
 global: {}
 
 cloudantBinding: "kube-00bea234116a48c3876f5b5e0d1fc19d.bnr8u8uw0o6lqgk4e9ag.dev-mhm"
-databaseName: "mooc-surge-ocp01-cluster-0143c5dd31acd8e030a1d6e0ab1380e3-0000"
+databaseName: "binding-mooc-surge-ocp01-cloudant"
 
 replicaCount: 1
 
