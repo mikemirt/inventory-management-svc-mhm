@@ -4,7 +4,7 @@
 global: {}
 
 cloudantBinding: "binding-mooc-surge-ocp01-cloudant"
-databaseName: "mooc-surge-ocp01-cloudant"
+databaseName: "inventory-dev-mhm"
 
 replicaCount: 1
 
