@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 import com.ibm.inventory_management.config.CloudantConfig;
 import com.ibm.inventory_management.models.StockItem;
 
+
 @Service
 public class StockItemService implements StockItemApi {
     private CloudantConfig config;
