@@ -8,7 +8,7 @@ databaseName: "inventory-dev-mhm"
 #cloudantBinding: ""
 #databaseName: ""
 
-replicaCount: 1
+replicaCount: 2
 
 image:
   repository: replace
