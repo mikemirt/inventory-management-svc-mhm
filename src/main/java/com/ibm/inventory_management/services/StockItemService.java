@@ -6,6 +6,7 @@ import javax.annotation.PostConstruct;
 
 import com.cloudant.client.api.CloudantClient;
 import com.cloudant.client.api.Database;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
 import com.ibm.inventory_management.config.CloudantConfig;
